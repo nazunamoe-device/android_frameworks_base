@@ -35,7 +35,7 @@ import android.widget.TextView;
 import com.android.systemui.R;
 import com.android.systemui.Dependency;
 import com.android.systemui.omni.DetailedWeatherView;
-import com.android.systemui.omni.OmniJawsClient;
+import com.android.internal.util.omni.OmniJawsClient;
 import com.android.systemui.plugins.DarkIconDispatcher;
 import com.android.systemui.plugins.DarkIconDispatcher.DarkReceiver;
 import java.util.Arrays;
